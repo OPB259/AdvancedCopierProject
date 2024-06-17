@@ -1,0 +1,14 @@
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.AssemblyInfoInputs.cache
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.AssemblyInfo.cs
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.csproj.CoreCompileInputs.cache
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\bin\Debug\net8.0\AdvancedCopierProject.exe
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\bin\Debug\net8.0\AdvancedCopierProject.deps.json
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\bin\Debug\net8.0\AdvancedCopierProject.runtimeconfig.json
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\bin\Debug\net8.0\AdvancedCopierProject.dll
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\bin\Debug\net8.0\AdvancedCopierProject.pdb
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.dll
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\refint\AdvancedCopierProject.dll
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.pdb
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\AdvancedCopierProject.genruntimeconfig.cache
+C:\Users\oskar\source\repos\AdvancedCopierProject\AdvancedCopierProject\obj\Debug\net8.0\ref\AdvancedCopierProject.dll

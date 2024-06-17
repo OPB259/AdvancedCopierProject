@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCopierProject", "AdvancedCopierProject\AdvancedCopierProject.csproj", "{6151F234-6ADE-4006-8F20-F07C9684EC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedCopierUnitTestsProject", "AdvancedCopierUnitTestsProject\AdvancedCopierUnitTestsProject.csproj", "{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6151F234-6ADE-4006-8F20-F07C9684EC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6151F234-6ADE-4006-8F20-F07C9684EC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6151F234-6ADE-4006-8F20-F07C9684EC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6151F234-6ADE-4006-8F20-F07C9684EC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2973EC0A-9567-4D50-A7B1-D2F8FC1F5381}
+	EndGlobalSection
+EndGlobal

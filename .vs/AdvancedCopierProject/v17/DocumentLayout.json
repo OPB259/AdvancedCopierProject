@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}|AdvancedCopierUnitTestsProject\\AdvancedCopierUnitTestsProject.csproj|c:\\users\\oskar\\source\\repos\\advancedcopierproject\\advancedcopierunittestsproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BD7C9B-192E-4F29-A0F6-6A84742F1E79}|AdvancedCopierUnitTestsProject\\AdvancedCopierUnitTestsProject.csproj|solutionrelative:advancedcopierunittestsproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151F234-6ADE-4006-8F20-F07C9684EC2A}|AdvancedCopierProject\\AdvancedCopierProject.csproj|c:\\users\\oskar\\source\\repos\\advancedcopierproject\\advancedcopierproject\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6151F234-6ADE-4006-8F20-F07C9684EC2A}|AdvancedCopierProject\\AdvancedCopierProject.csproj|solutionrelative:advancedcopierproject\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151F234-6ADE-4006-8F20-F07C9684EC2A}|AdvancedCopierProject\\AdvancedCopierProject.csproj|c:\\users\\oskar\\source\\repos\\advancedcopierproject\\advancedcopierproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6151F234-6ADE-4006-8F20-F07C9684EC2A}|AdvancedCopierProject\\AdvancedCopierProject.csproj|solutionrelative:advancedcopierproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6151F234-6ADE-4006-8F20-F07C9684EC2A}|AdvancedCopierProject\\AdvancedCopierProject.csproj|c:\\users\\oskar\\source\\repos\\advancedcopierproject\\advancedcopierproject\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6151F234-6ADE-4006-8F20-F07C9684EC2A}|AdvancedCopierProject\\AdvancedCopierProject.csproj|solutionrelative:advancedcopierproject\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierUnitTestsProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AdvancedCopierUnitTestsProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierUnitTestsProject\\UnitTest1.cs",
+              "RelativeToolTip": "AdvancedCopierUnitTestsProject\\UnitTest1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA3wGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:37:33.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Documents.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierProject\\Documents.cs",
+              "RelativeDocumentMoniker": "AdvancedCopierProject\\Documents.cs",
+              "ToolTip": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierProject\\Documents.cs",
+              "RelativeToolTip": "AdvancedCopierProject\\Documents.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA/wCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:32:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierProject\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedCopierProject\\Program.cs",
+              "ToolTip": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierProject\\Program.cs",
+              "RelativeToolTip": "AdvancedCopierProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:31:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierProject\\Devices.cs",
+              "RelativeDocumentMoniker": "AdvancedCopierProject\\Devices.cs",
+              "ToolTip": "C:\\Users\\oskar\\source\\repos\\AdvancedCopierProject\\AdvancedCopierProject\\Devices.cs",
+              "RelativeToolTip": "AdvancedCopierProject\\Devices.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAgwKAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:29:51.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
